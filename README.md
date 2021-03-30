@@ -1,9 +1,10 @@
 <h2> Hi, I´m Silvia<h2>
 <img src="icons/silvi.webp" align='right' width="100px"/>
- <p><em>Full Stack Python Developer</em>  :computer:</p>
+<p><em>Full Stack Python Developer</em>  :computer:</p>
 
+<a href="https://www.linkedin.com/in/silvia-sanjose" target="blank"><img align="left" src="icons/Linkedin.png" alt="SilviaSanjose Linkedin" width="22px" /></a>
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-silvia-sanjose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvia-sanjose/)]
 <!--
-**SilviaSanjose/SilviaSanjose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,9 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<a href="https://www.linkedin.com/in/silvia-sanjose" target="blank"><img align="left" src="icons/Linkedin.png" alt="SilviaSanjose Linkedin" width="22px" /></a>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 ```javascript
@@ -31,4 +29,4 @@ const thai = {
 ```
 -->
 
-<a href="https://www.linkedin.com/in/silvia-sanjose" target="blank"><img align="left" src="icons/Linkedin.png" alt="SilviaSanjose Linkedin" width="22px" /></a>
+
