@@ -8,7 +8,7 @@ dos
 [![Linkedin: silvia-sanjose](https://img.shields.io/badge/-silviasanjose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvia-sanjose/)](https://www.linkedin.com/in/silvia-sanjose)
 
 <a href="https://www.linkedin.com/in/silvia-sanjose" target="blank">
-    <img src="https://img.shields.io/badge/-silviasanjose-blue?style=flat-square&logo=Linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-silviasanjose-blue?style=flat-square&logo=Linkedin&logoColor=white" />
     </a>
 <!--
 
