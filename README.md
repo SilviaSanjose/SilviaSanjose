@@ -6,7 +6,14 @@
 [![Linkedin: silvia-sanjose](https://img.shields.io/badge/-silviasanjose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvia-sanjose/)](https://www.linkedin.com/in/silvia-sanjose)
 
 <a href="https://www.linkedin.com/in/silvia-sanjose" target="blank">[![Linkedin: silvia-sanjose](https://img.shields.io/badge/-silviasanjose-blue?style=flat-square&logo=Linkedin&logoColor=white)] </a>
+<object data="https://img.shields.io/badge/-silviasanjose-blue?style=flat-square&logo=Linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/silvia-sanjose" target="blank"></a>
+</object>
 
+<a href="https://www.linkedin.com/in/silvia-sanjose" target="blank">
+  <object data="https://img.shields.io/badge/-silviasanjose-blue?style=flat-square&logo=Linkedin&logoColor=white">
+</object>
+  </a>
 <!--
 
 Here are some ideas to get you started:
