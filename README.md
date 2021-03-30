@@ -2,14 +2,17 @@
 <img src="icons/silvi.webp" align='right' width="100px"/>
 <p><em>Full Stack Python Developer</em>  :computer:</p>
 
-<a href="https://www.linkedin.com/in/silvia-sanjose" target="blank"><img align="left" src="icons/Linkedin.png" alt="SilviaSanjose Linkedin" width="22px" /></a>
+Uno <a href="https://www.linkedin.com/in/silvia-sanjose" target="blank"><img align="left" src="icons/Linkedin.png" alt="SilviaSanjose Linkedin" width="22px" /></a>
+
+dos
 [![Linkedin: silvia-sanjose](https://img.shields.io/badge/-silviasanjose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvia-sanjose/)](https://www.linkedin.com/in/silvia-sanjose)
 
-<a href="https://www.linkedin.com/in/silvia-sanjose" target="blank">[![Linkedin: silvia-sanjose](https://img.shields.io/badge/-silviasanjose-blue?style=flat-square&logo=Linkedin&logoColor=white)] </a>
+tres <a href="https://www.linkedin.com/in/silvia-sanjose" target="blank">[![Linkedin: silvia-sanjose](https://img.shields.io/badge/-silviasanjose-blue?style=flat-square&logo=Linkedin&logoColor=white)] </a>
 <object data="https://img.shields.io/badge/-silviasanjose-blue?style=flat-square&logo=Linkedin&logoColor=white">
   <a href="https://www.linkedin.com/in/silvia-sanjose" target="blank"></a>
 </object>
 
+cuatro
 <a href="https://www.linkedin.com/in/silvia-sanjose" target="blank">
   <object data="https://img.shields.io/badge/-silviasanjose-blue?style=flat-square&logo=Linkedin&logoColor=white">
 </object>
