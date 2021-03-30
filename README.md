@@ -30,3 +30,5 @@ const thai = {
 }
 ```
 -->
+
+<a href="https://www.linkedin.com/in/silvia-sanjose" target="blank"><img align="left" src="icons/Linkedin.png" alt="SilviaSanjose Linkedin" width="22px" /></a>
