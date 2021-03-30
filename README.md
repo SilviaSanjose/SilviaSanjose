@@ -1,4 +1,6 @@
 <h3> Hi, I´m Silvia 👋 <h3>
+  
+  <p><em>Full Stack Python Developer</em>  :computer:</p>
 
 <!--
 **SilviaSanjose/SilviaSanjose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<a href="https://www.linkedin.com/in/silvia-sanjose" target="blank"><img align="left" src="icons/Linkedin.png" alt="SilviaSanjose Linkedin" width="22px" /></a>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 ```javascript
