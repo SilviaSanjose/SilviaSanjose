@@ -1,8 +1,7 @@
-<h3> Hi, I´m Silvia 👋 <h3>
-  
-  <p><em>Full Stack Python Developer</em>  :computer:</p>
-<p><em>Software Enginner </br>Developer Consultant  
-</em></p>
+<h2> Hi, I´m Silvia<h2>
+ <img src="icons/silvi.png" align='right' width="100px">
+ <p><em>Full Stack Python Developer</em>  :computer:</p>
+
 <!--
 **SilviaSanjose/SilviaSanjose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
