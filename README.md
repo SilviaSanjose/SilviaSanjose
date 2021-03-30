@@ -1,5 +1,5 @@
-<h2> Hi, I´m Silvia<h2>
-<img src="icons/silvi.webp" align='right' width="100px"/>
+<h2 align='center'> Hi, I´m Silvia <img src="icons/silvi.webp"  width="100px"/><h2>
+
   
 <p><em>Full Stack Python Developer</em>  :computer:</p>
 
