@@ -1,5 +1,6 @@
 <h2 align='center'> Hi, I´m Silvia  </h2>
 
+<p><em>Full Stack Python Developer</em>  :computer:</p>
 
 <a href="https://www.linkedin.com/in/silvia-sanjose" target="blank">
   <img src="https://img.shields.io/badge/-silviasanjose-blue?style=flat-square&logo=Linkedin&logoColor=white" />
