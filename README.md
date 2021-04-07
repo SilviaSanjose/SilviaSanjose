@@ -26,15 +26,16 @@ const silvi = {
 }
 ```
 
+<!--
  <a href="https://www.linkedin.com/in/silvia-sanjose" target="blank"><img align="left" src="icons/Linkedin.png" alt="SilviaSanjose Linkedin" width="22px" /></a>
 
-
-<!--
 ![](https://raw.githubusercontent.com/SilviaSanjose/github-stats-transparent/output/generated/languages.svg)
 
 challenge: "I'm working towards being able to run a marathon.", 
 challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 technologies >> frontEnd >>  js: ["React", "Angular"],
+
+---  para linea entera
 -->
 
 
