@@ -22,9 +22,12 @@ const silvi = {
       },
       databases: ["mySQL"]
    },
-   tools: [Trello, Jira, Agile]
+  tools: [Trello, Jira, Agile]
 }
 ```
+</br>
+
+![Silvia´s Github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SilviaSanjose&theme=onedark&layout=compact)
 
 <!--
  <a href="https://www.linkedin.com/in/silvia-sanjose" target="blank"><img align="left" src="icons/Linkedin.png" alt="SilviaSanjose Linkedin" width="22px" /></a>
