@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/badge/-silviasanjose-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 
-
+</br>
+</br>
 
 ```javascript
 const silvi = {
