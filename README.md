@@ -28,20 +28,6 @@ const silvi = {
 }
 ```
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
 
 <!--
  <a href="https://www.linkedin.com/in/silvia-sanjose" target="blank"><img align="left" src="icons/Linkedin.png" alt="SilviaSanjose Linkedin" width="22px" /></a>
