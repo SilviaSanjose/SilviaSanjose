@@ -18,12 +18,11 @@ const silvi = {
       },
       backEnd: {
          java: ["WindowbuilderApp"],
-         js: ["Node", "Express"],
          python: ["Django", "Flask", "PyQt5"],
       },
-      databases: ["mySQL"],
-      mobile: ["Android", "IOS"]
-   },   
+      databases: ["mySQL"]
+   },
+   tools: [Trello, Jira, Agile]
 }
 ```
 
