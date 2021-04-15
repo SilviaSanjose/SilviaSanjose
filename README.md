@@ -20,9 +20,9 @@ const silvi = {
          java: ["WindowbuilderApp"],
          python: ["Django", "Flask", "PyQt5"],
       },
-      databases: ["mySQL"]
+      databases: ["MySQL"]
    },
-  tools: [Trello, Jira, Agile]
+  tools: [Trello, Jira, Agile, Git, Scrum]
 }
 ```
 </br>
