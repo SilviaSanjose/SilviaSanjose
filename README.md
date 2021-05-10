@@ -28,7 +28,8 @@ const silvi = {
 ```
 </br>
 
-![Silvia´s Github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SilviaSanjose&theme=onedark&layout=compact)
+![Silvia´s Github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SilviaSanjose&theme=dracula&layout=compact)
+
 </br></br></br>
 
 <em>This README was generated with ❤️ by Silvia Sanjosé</em>
