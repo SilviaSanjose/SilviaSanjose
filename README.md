@@ -1,4 +1,4 @@
-<h2 align='center'> Hi, I´m Silvia  </h2>
+<h2 align='center'> Hi, I´m Silvia 👋 </h2>
 <img align='right'src="icons/silvi.webp"  width="130px"/>
 
 <p><em>Full Stack Python Developer</em>  :computer:</p>
