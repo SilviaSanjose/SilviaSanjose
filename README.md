@@ -28,7 +28,7 @@ const silvi = {
 ```
 </br>
 
-![Silvia´s Github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SilviaSanjose&theme=synthwave&layout=compact)
+![Silvia´s Github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SilviaSanjose&theme=jolly&layout=compact)
 
 </br></br></br>
 
