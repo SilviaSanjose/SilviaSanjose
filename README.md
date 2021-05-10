@@ -20,7 +20,8 @@ const silvi = {
          java: ["WindowbuilderApp"],
          python: ["Django", "Flask", "PyQt5"],
       },
-      databases: ["MySQL"]
+      databases: ["MySQL"],
+      bots: ["Dialogflow", "AWS", "Alexa"]
    },
   tools: [Trello, Jira, Agile, Git, Scrum]
 }
@@ -28,7 +29,9 @@ const silvi = {
 </br>
 
 ![Silvia´s Github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SilviaSanjose&theme=onedark&layout=compact)
+</br></br></br>
 
+<em>This README was generated with ❤️ by Silvia Sanjosé</em>
 <!--
  <a href="https://www.linkedin.com/in/silvia-sanjose" target="blank"><img align="left" src="icons/Linkedin.png" alt="SilviaSanjose Linkedin" width="22px" /></a>
 
