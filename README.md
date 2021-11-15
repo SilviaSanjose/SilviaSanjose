@@ -11,18 +11,26 @@
 ```javascript
 const silvi = {
   pronouns: "she" | "her",
+  
   code: [ HTML, CSS, Javascript, Python, Java],
+  
   technologies: {
+  
       frontEnd: {
-         css: ["Bootstrap", "Sass"]
+         css: ["Bootstrap", "Sass"], 
+         js: ["Npm", "React"]
       },
+      
       backEnd: {
          java: ["WindowbuilderApp"],
          python: ["Django", "Flask", "PyQt5"],
       },
+      
       databases: ["MySQL"],
+      
       bots: ["Dialogflow", "AWS", "Alexa"]
    },
+   
   tools: [Trello, Jira, Agile, Git, Scrum]
 }
 ```
@@ -30,17 +38,22 @@ const silvi = {
 
 ![Silvia´s Github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SilviaSanjose&theme=jolly&layout=compact)
 
-</br></br></br>
+</br></br>
 
 <em>This README was generated with ❤️ by Silvia Sanjosé</em>
-<!--
- <a href="https://www.linkedin.com/in/silvia-sanjose" target="blank"><img align="left" src="icons/Linkedin.png" alt="SilviaSanjose Linkedin" width="22px" /></a>
 
-![](https://raw.githubusercontent.com/SilviaSanjose/github-stats-transparent/output/generated/languages.svg)
+
+<!--
+COMMENT
+*Linkedin círculo:
+<a href="https://www.linkedin.com/in/silvia-sanjose" target="blank"><img align="left" src="icons/Linkedin.png" alt="SilviaSanjose Linkedin" width="22px" /></a>
+
+*Cuadro con imagen/enlacea perfil (colaborador):
+<kbd><a href="https://github.com/SilviaSanjose"><img src="https://avatars.githubusercontent.com/u/22518181?v=4" title="SilviaSanjose" width="60" height="60"></a></kbd>
+
 
 challenge: "I'm working towards being able to run a marathon.", 
 challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-technologies >> frontEnd >>  js: ["React", "Angular"],
 
 ---  para linea entera
 -->
